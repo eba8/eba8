@@ -5,9 +5,9 @@ Founder at **[WebLime](https://weblime.com)** - a software agency building produ
 ## What I'm building
 
 - **[LimeStack](https://limestack.io)** - Developer tools and infrastructure
-- **[Limey](https://limey.io)** - AI-powered productivity platform
+- **[Limey](https://limey.io)** - No-code solutions
 - **[Builderr](https://builderr.io)** - Construction project management software
-- **[TailMars](https://tailmars.com)** - Marketing and growth tools
+- **[Tailmars](https://tailmars.com)** - Your orginzation's facotire operating system
 
 ## About
 
