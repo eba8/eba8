@@ -4,14 +4,7 @@ Founder at **[WebLime](https://weblime.com)** - a software agency building produ
 
 ## What I'm building
 
-- **[LimeStack](https://limestack.io)** - Developer tools and infrastructure
-- **[Limey](https://limey.io)** - No-code solutions
-- **[Builderr](https://builderr.io)** - Construction project management software
-- **[Tailmars](https://tailmars.com)** - Your orginzation's facotire operating system
-
-## About
-
-I write code daily, ship products, and occasionally contribute to open source. Most of my work lives in private repos across the [@WebLime-agency](https://github.com/WebLime-agency) org.
-
-If you're looking to build something together, reach out through [weblime.com](https://weblime.com).
-
+- **[LimeStack](https://limestack.io)** - All-in-one platform for eBay resellers to manage inventory, listings, and shipping
+- **[Limey](https://limey.io)** - QR codes, short links, microsites, and digital business cards in one place
+- **[Builderr](https://builderr.io)** - Color palette browser and brand guide generator for design workflows
+- **[TailMars](https://tailmars.com)** - Business operating system combining CRM, project management, support, and social media scheduling
