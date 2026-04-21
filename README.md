@@ -2,7 +2,7 @@
 
 Founder at **[WebLime](https://weblime.com)** - a software agency building products across space, legal, construction, and tech.
 
-## What I'm building
+## What we're building
 
 - **[LimeStack](https://limestack.io)** - All-in-one platform for eBay resellers to manage inventory, listings, and shipping
 - **[Limey](https://limey.io)** - QR codes, short links, microsites, and digital business cards in one place
